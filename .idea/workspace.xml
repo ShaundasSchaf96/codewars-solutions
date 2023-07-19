@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73834633-60e6-42cc-856e-782882f46623" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript/6kyu/find-the-unique-number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/beginner-series3-sum-of-numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/categorize-new-member.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/disemvowel-trolls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/is-this-a-triangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/make-a-function-that-does-arthmetic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/money-money-money.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/shortest-word.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/square-every-digit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/sum-of-a-sequence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7kyu/summing-a-number's-digit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/5-without-numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/a-wolf-in-sheeps-clothing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/are-you-playing-banjo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/calculate-bmi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/convert-a-string-into-an-array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/convert-boolean-values-to-strings-yes-or-no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/drink-about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/even-or-odd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/filter-out-the-geese.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/find-the-smallest-integer-in-the-array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/is-the-string-uppercase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/keep-hydrated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/keep-up-the-hoop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/no-zeros-for-heros.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/opposite-number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/returning-strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/reversing-words-in-a-string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/sort-and-star.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/switch-it-up.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/the-wide-mouthed-frog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/total-number-of-points.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/volume-of-a-cuboid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8kyu/you-only-need-one.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codewars-solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codewars-solutions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/8kyu/a-needle-in-the-haystack.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/8kyu/a-needle-in-the-haystack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/8kyu/twice-as-old.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/8kyu/twice-as-old.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/8kyu/vowel-remover.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/8kyu/vowel-remover.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Sl69Yi9y6vuCvx34ByEikihDv7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Nadin/codewars-solutions",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PycharmProjects/pythonProject1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PycharmProjects/pythonProject1/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73834633-60e6-42cc-856e-782882f46623" name="Changes" comment="" />
+      <created>1689708672431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689708672431</updated>
+    </task>
+    <servers />
+  </component>
+</project>
