@@ -14,4 +14,4 @@ public class Solution{
       long sum = (n*(n+1))/2;
       return sum*sum;
     }
-  }
+}
